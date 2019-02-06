@@ -1,0 +1,52 @@
+body
+{
+    background-size: auto;
+    background-image: url(../img/fondo.jpg);
+    background-attachment: fixed;
+    overflow: scroll;
+    background-repeat: no-repeat;
+}
+
+.container
+{
+    background-color: #ffffff;
+    background-image: url(../img/fondo.jpg);
+}
+#col1
+{
+  background-color:rgba(192,192,192,0.3)
+}
+
+#col2
+{
+  background-color:rgba(192,192,192,0.3)
+}
+#col3
+{
+background-color:#f2ecec;
+    margin-right: 50px;
+}
+#col4
+{
+    width: 100%;
+    background-color:rgba(255,0,0,0.7);
+    margin-left:30px;
+}
+#buscar
+{
+  margin-top: 10px;
+}
+
+#favoritos1
+{
+  margin: auto;
+}
+#favoritos2
+{
+  margin: auto;
+}
+
+@media (min-width: 768px)
+{
+
+}

@@ -1,0 +1,63 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("../img/canada.jpeg");
+}
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 50rem;
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+.columna-chat, .columna-news{
+  padding: 0 !important;
+}
+.contenedor-write-publicacion{
+  min-height: 7rem;
+}
+.contenedor-publicacion{
+  min-height: 17rem;
+  padding: 2rem;
+}
+#nav
+{
+  width: 1000px !important;
+  background-color:blue;
+}
+#logo{
+  width: 50%;
+  margin-left: 10px;
+}
+#santa
+{
+  width: 98%;
+}
+#san
+{
+  width:100%;
+  height: 150%;
+}
+#capurgana
+{
+  width:100%;
+}
+#manizales
+{
+  width:100%;
+}
+#manizales2
+{
+  width: 100%;
+}
+.contenedor
+{
+  background-color: white;
+}
+#avatar
+{
+  width: 100%;
+}
